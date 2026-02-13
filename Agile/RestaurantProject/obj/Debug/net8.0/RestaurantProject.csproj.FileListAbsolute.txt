@@ -1,0 +1,14 @@
+C:\Users\Я\Desktop\3 course\ООП\RestaurantProject\obj\Debug\net8.0\RestaurantProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Desktop\3 course\ООП\RestaurantProject\obj\Debug\net8.0\RestaurantProject.AssemblyInfoInputs.cache
+C:\Users\Я\Desktop\3 course\ООП\RestaurantProject\obj\Debug\net8.0\RestaurantProject.AssemblyInfo.cs
+C:\Users\Я\Desktop\3 course\ООП\RestaurantProject\obj\Debug\net8.0\RestaurantProject.csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\3 course\ООП\RestaurantProject\bin\Debug\net8.0\RestaurantProject.exe
+C:\Users\Я\Desktop\3 course\ООП\RestaurantProject\bin\Debug\net8.0\RestaurantProject.deps.json
+C:\Users\Я\Desktop\3 course\ООП\RestaurantProject\bin\Debug\net8.0\RestaurantProject.runtimeconfig.json
+C:\Users\Я\Desktop\3 course\ООП\RestaurantProject\bin\Debug\net8.0\RestaurantProject.dll
+C:\Users\Я\Desktop\3 course\ООП\RestaurantProject\bin\Debug\net8.0\RestaurantProject.pdb
+C:\Users\Я\Desktop\3 course\ООП\RestaurantProject\obj\Debug\net8.0\RestaurantProject.dll
+C:\Users\Я\Desktop\3 course\ООП\RestaurantProject\obj\Debug\net8.0\refint\RestaurantProject.dll
+C:\Users\Я\Desktop\3 course\ООП\RestaurantProject\obj\Debug\net8.0\RestaurantProject.pdb
+C:\Users\Я\Desktop\3 course\ООП\RestaurantProject\obj\Debug\net8.0\RestaurantProject.genruntimeconfig.cache
+C:\Users\Я\Desktop\3 course\ООП\RestaurantProject\obj\Debug\net8.0\ref\RestaurantProject.dll

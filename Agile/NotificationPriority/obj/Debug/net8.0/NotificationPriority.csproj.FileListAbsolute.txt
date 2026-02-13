@@ -1,0 +1,14 @@
+C:\Users\Я\Desktop\3 course\ООП\NotificationPriority\obj\Debug\net8.0\NotificationPriority.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Desktop\3 course\ООП\NotificationPriority\obj\Debug\net8.0\NotificationPriority.AssemblyInfoInputs.cache
+C:\Users\Я\Desktop\3 course\ООП\NotificationPriority\obj\Debug\net8.0\NotificationPriority.AssemblyInfo.cs
+C:\Users\Я\Desktop\3 course\ООП\NotificationPriority\obj\Debug\net8.0\NotificationPriority.csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\3 course\ООП\NotificationPriority\bin\Debug\net8.0\NotificationPriority.exe
+C:\Users\Я\Desktop\3 course\ООП\NotificationPriority\bin\Debug\net8.0\NotificationPriority.deps.json
+C:\Users\Я\Desktop\3 course\ООП\NotificationPriority\bin\Debug\net8.0\NotificationPriority.runtimeconfig.json
+C:\Users\Я\Desktop\3 course\ООП\NotificationPriority\bin\Debug\net8.0\NotificationPriority.dll
+C:\Users\Я\Desktop\3 course\ООП\NotificationPriority\bin\Debug\net8.0\NotificationPriority.pdb
+C:\Users\Я\Desktop\3 course\ООП\NotificationPriority\obj\Debug\net8.0\NotificationPriority.dll
+C:\Users\Я\Desktop\3 course\ООП\NotificationPriority\obj\Debug\net8.0\refint\NotificationPriority.dll
+C:\Users\Я\Desktop\3 course\ООП\NotificationPriority\obj\Debug\net8.0\NotificationPriority.pdb
+C:\Users\Я\Desktop\3 course\ООП\NotificationPriority\obj\Debug\net8.0\NotificationPriority.genruntimeconfig.cache
+C:\Users\Я\Desktop\3 course\ООП\NotificationPriority\obj\Debug\net8.0\ref\NotificationPriority.dll

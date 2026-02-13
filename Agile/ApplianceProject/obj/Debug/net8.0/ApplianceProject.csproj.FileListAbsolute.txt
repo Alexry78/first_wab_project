@@ -1,0 +1,14 @@
+C:\Users\Я\Desktop\3 course\ООП\ApplianceProject\bin\Debug\net8.0\ApplianceProject.exe
+C:\Users\Я\Desktop\3 course\ООП\ApplianceProject\bin\Debug\net8.0\ApplianceProject.deps.json
+C:\Users\Я\Desktop\3 course\ООП\ApplianceProject\bin\Debug\net8.0\ApplianceProject.runtimeconfig.json
+C:\Users\Я\Desktop\3 course\ООП\ApplianceProject\bin\Debug\net8.0\ApplianceProject.dll
+C:\Users\Я\Desktop\3 course\ООП\ApplianceProject\bin\Debug\net8.0\ApplianceProject.pdb
+C:\Users\Я\Desktop\3 course\ООП\ApplianceProject\obj\Debug\net8.0\ApplianceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Desktop\3 course\ООП\ApplianceProject\obj\Debug\net8.0\ApplianceProject.AssemblyInfoInputs.cache
+C:\Users\Я\Desktop\3 course\ООП\ApplianceProject\obj\Debug\net8.0\ApplianceProject.AssemblyInfo.cs
+C:\Users\Я\Desktop\3 course\ООП\ApplianceProject\obj\Debug\net8.0\ApplianceProject.csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\3 course\ООП\ApplianceProject\obj\Debug\net8.0\ApplianceProject.dll
+C:\Users\Я\Desktop\3 course\ООП\ApplianceProject\obj\Debug\net8.0\refint\ApplianceProject.dll
+C:\Users\Я\Desktop\3 course\ООП\ApplianceProject\obj\Debug\net8.0\ApplianceProject.pdb
+C:\Users\Я\Desktop\3 course\ООП\ApplianceProject\obj\Debug\net8.0\ApplianceProject.genruntimeconfig.cache
+C:\Users\Я\Desktop\3 course\ООП\ApplianceProject\obj\Debug\net8.0\ref\ApplianceProject.dll

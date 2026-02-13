@@ -1,0 +1,14 @@
+C:\Users\Я\Desktop\3 course\ООП\AirplaneProject\bin\Debug\net8.0\AirplaneProject.exe
+C:\Users\Я\Desktop\3 course\ООП\AirplaneProject\bin\Debug\net8.0\AirplaneProject.deps.json
+C:\Users\Я\Desktop\3 course\ООП\AirplaneProject\bin\Debug\net8.0\AirplaneProject.runtimeconfig.json
+C:\Users\Я\Desktop\3 course\ООП\AirplaneProject\bin\Debug\net8.0\AirplaneProject.dll
+C:\Users\Я\Desktop\3 course\ООП\AirplaneProject\bin\Debug\net8.0\AirplaneProject.pdb
+C:\Users\Я\Desktop\3 course\ООП\AirplaneProject\obj\Debug\net8.0\AirplaneProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Desktop\3 course\ООП\AirplaneProject\obj\Debug\net8.0\AirplaneProject.AssemblyInfoInputs.cache
+C:\Users\Я\Desktop\3 course\ООП\AirplaneProject\obj\Debug\net8.0\AirplaneProject.AssemblyInfo.cs
+C:\Users\Я\Desktop\3 course\ООП\AirplaneProject\obj\Debug\net8.0\AirplaneProject.csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\3 course\ООП\AirplaneProject\obj\Debug\net8.0\AirplaneProject.dll
+C:\Users\Я\Desktop\3 course\ООП\AirplaneProject\obj\Debug\net8.0\refint\AirplaneProject.dll
+C:\Users\Я\Desktop\3 course\ООП\AirplaneProject\obj\Debug\net8.0\AirplaneProject.pdb
+C:\Users\Я\Desktop\3 course\ООП\AirplaneProject\obj\Debug\net8.0\AirplaneProject.genruntimeconfig.cache
+C:\Users\Я\Desktop\3 course\ООП\AirplaneProject\obj\Debug\net8.0\ref\AirplaneProject.dll

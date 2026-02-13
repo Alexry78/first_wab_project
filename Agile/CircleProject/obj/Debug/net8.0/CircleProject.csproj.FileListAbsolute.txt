@@ -1,0 +1,14 @@
+C:\Users\Я\Desktop\3 course\ООП\CircleProject\bin\Debug\net8.0\CircleProject.exe
+C:\Users\Я\Desktop\3 course\ООП\CircleProject\bin\Debug\net8.0\CircleProject.deps.json
+C:\Users\Я\Desktop\3 course\ООП\CircleProject\bin\Debug\net8.0\CircleProject.runtimeconfig.json
+C:\Users\Я\Desktop\3 course\ООП\CircleProject\bin\Debug\net8.0\CircleProject.dll
+C:\Users\Я\Desktop\3 course\ООП\CircleProject\bin\Debug\net8.0\CircleProject.pdb
+C:\Users\Я\Desktop\3 course\ООП\CircleProject\obj\Debug\net8.0\CircleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Desktop\3 course\ООП\CircleProject\obj\Debug\net8.0\CircleProject.AssemblyInfoInputs.cache
+C:\Users\Я\Desktop\3 course\ООП\CircleProject\obj\Debug\net8.0\CircleProject.AssemblyInfo.cs
+C:\Users\Я\Desktop\3 course\ООП\CircleProject\obj\Debug\net8.0\CircleProject.csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\3 course\ООП\CircleProject\obj\Debug\net8.0\CircleProject.dll
+C:\Users\Я\Desktop\3 course\ООП\CircleProject\obj\Debug\net8.0\refint\CircleProject.dll
+C:\Users\Я\Desktop\3 course\ООП\CircleProject\obj\Debug\net8.0\CircleProject.pdb
+C:\Users\Я\Desktop\3 course\ООП\CircleProject\obj\Debug\net8.0\CircleProject.genruntimeconfig.cache
+C:\Users\Я\Desktop\3 course\ООП\CircleProject\obj\Debug\net8.0\ref\CircleProject.dll
