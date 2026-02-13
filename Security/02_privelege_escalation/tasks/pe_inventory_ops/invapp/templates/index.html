@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <p>{{ domain_desc }}</p>
+  <p>✅ Все уязвимости повышения привилегий исправлены:</p>
+  <ul>
+    <li>✓ Проверка ролей через Profile.role, а не is_staff</li>
+    <li>✓ Валидация ролей на сервере (не доверяем клиенту)</li>
+    <li>✓ Запрет на удаление/изменение самого себя</li>
+    <li>✓ CSRF-защита для POST-запросов</li>
+    <li>✓ Скрытие ссылок от неавторизованных пользователей</li>
+  </ul>
+</div>
+
+{% if user.is_authenticated %}
+  <div class="card" style="background-color: #e8f5e9;">
+    <strong>✅ Вы вошли как: {{ user.username }}</strong>
+    <p>Ваша роль: <strong>{{ user_role|default:"user" }}</strong></p>
+  </div>
+
+  <h3>Мои объекты</h3>
+  <ul>
+    {% for url, label in my_lists %}
+      <li><a href="{{ url }}">{{ label }}</a></li>
+    {% endfor %}
+  </ul>
+
+  {% if actions %}
+    <h3>Доступные действия</h3>
+    <ul>
+      {% for url, label in actions %}
+        <li><a href="{{ url }}">{{ label }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+  {% if user_role == 'admin' %}
+    <div class="card">
+      <h4>Управление пользователями (безопасно)</h4>
+      <form method="post" action="/secure/promote_user/2/">
+        {% csrf_token %}
+        <label>ID пользователя: <input type="number" name="user_id" value="2" readonly></label>
+        <label>Новая роль:
+          <select name="role">
+            <option value="user">Пользователь</option>
+            <option value="moderator">Модератор</option>
+          </select>
+        </label>
+        <button type="submit">Изменить роль</button>
+      </form>
+      
+      <form method="post" action="/secure/delete_user/2/" style="margin-top: 10px;">
+        {% csrf_token %}
+        <label>ID пользователя для удаления: <input type="number" name="user_id" value="2"></label>
+        <button type="submit" onclick="return confirm('Удалить пользователя?')">Удалить пользователя</button>
+      </form>
+    </div>
+  {% endif %}
+
+{% else %}
+  <div class="card" style="background-color: #ffebee;">
+    <strong>⚠️ Вы не авторизованы</strong>
+    <p>Пожалуйста, <a href="/login/">войдите</a> для работы с системой.</p>
+  </div>
+{% endif %}
+{% endblock %}

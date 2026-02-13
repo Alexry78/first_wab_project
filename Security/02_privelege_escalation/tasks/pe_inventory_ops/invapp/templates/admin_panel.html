@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+  <h2>Панель управления ({{ mode }})</h2>
+  
+  <div class="card">
+    <p>✅ Безопасная версия: доступ только для администраторов и модераторов.</p>
+    <p>Ваша роль: <strong>{{ role }}</strong></p>
+  </div>
+
+  {% if users %}
+    <h3>Последние пользователи</h3>
+    <table>
+      <tr>
+        <th>ID</th>
+        <th>Username</th>
+        <th>Роль</th>
+        <th>Дата регистрации</th>
+      </tr>
+      {% for u in users %}
+      <tr>
+        <td>{{ u.id }}</td>
+        <td>{{ u.username }}</td>
+        <td>{{ u.profile.role }}</td>
+        <td>{{ u.date_joined|date:"d.m.Y" }}</td>
+      </tr>
+      {% endfor %}
+    </table>
+  {% endif %}
+{% endblock %}

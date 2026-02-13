@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>{{ title|default:"Мои заказы" }}</h2>
+
+{% if objects %}
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Название</th>
+      <th>Действия</th>
+    </tr>
+    {% for obj in objects %}
+    <tr>
+      <td>#{{ obj.id }}</td>
+      <td>{{ obj.title }}</td>
+      <td>
+        <a href="{% url 'order_detail_secure' obj.id %}">Просмотр</a>
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
+{% else %}
+  <p>У вас пока нет заказов.</p>
+{% endif %}
+{% endblock %}

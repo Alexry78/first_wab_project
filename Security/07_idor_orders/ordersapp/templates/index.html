@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <p>{{ domain_desc }}</p>
+  <p>✅ Все уязвимости IDOR исправлены:</p>
+  <ul>
+    <li>✓ Добавлены проверки владельца на сервере</li>
+    <li>✓ Все защищенные маршруты требуют аутентификации</li>
+    <li>✓ Удалены уязвимые GET-параметры (?id=...)</li>
+    <li>✓ Исправлена клиентская логика с localStorage</li>
+  </ul>
+</div>
+
+<h3>Мои списки</h3>
+<ul>
+  {% for href, label in my_lists %}
+    <li><a href="{{ href }}">{{ label }}</a></li>
+  {% endfor %}
+</ul>
+
+{% if user.is_authenticated %}
+  <div class="card" style="background-color: #e8f5e9;">
+    <strong>✅ Вы вошли как: {{ user.username }}</strong>
+    <p>Вы можете просматривать и редактировать ТОЛЬКО свои заказы и счета.</p>
+  </div>
+  
+    <h4>Быстрое редактирование заказа</h4>
+    <p class="muted">Введите ID существующего заказа (только ваш!):</p>
+    <form id="safeEditForm" method="post">
+      {% csrf_token %}
+      <input type="number" name="order_id" placeholder="ID заказа" min="1" required>
+      <input type="text" name="title" placeholder="Новый заголовок" required>
+      <button type="submit">Обновить заказ</button>
+    </form>
+    <div id="editResult" style="margin-top: 10px;"></div>
+  </div>
+  
+  <script>
+    document.getElementById('safeEditForm').addEventListener('submit', function(e) {
+      e.preventDefault();
+      const formData = new FormData(this);
+      
+      fetch(`/vuln/order/update/${formData.get('order_id')}/`, {
+        method: 'POST',
+        body: formData,
+        headers: {
+          'X-CSRFToken': formData.get('csrfmiddlewaretoken')
+        }
+      })
+      .then(response => {
+        if (response.redirected) {
+          window.location.href = response.url;
+        } else if (response.status === 403) {
+          alert('Доступ запрещен: это не ваш заказ!');
+        }
+      })
+      .catch(error => console.error('Error:', error));
+    });
+    
+    localStorage.removeItem('isAdmin');
+    console.log('localStorage очищен от опасных флагов');
+  </script>
+  
+{% else %}
+  <div class="card" style="background-color: #ffebee;">
+    <strong>⚠️ Вы не авторизованы</strong>
+    <p>Пожалуйста, <a href="/login/">войдите</a> для просмотра заказов.</p>
+  </div>
+{% endif %}
+{% endblock %}
