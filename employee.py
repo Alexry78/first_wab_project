@@ -12,7 +12,6 @@ class Employee:
         return f"{self.position} | Зарплата: {self.salary} руб. | Стаж: {self.experience} лет"
 
 
-# ЭТО ЕДИНСТВЕННОЕ ПРАВИЛЬНОЕ НАПИСАНИЕ
 if __name__ == "__main__":
     emp = Employee("Python Developer", 100000, 2)
     print("Было:", emp)
