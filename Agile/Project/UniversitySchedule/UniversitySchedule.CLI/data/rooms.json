@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Code": "A-101",
+    "Capacity": 40,
+    "Building": "\u0413\u043B\u0430\u0432\u043D\u044B\u0439"
+  },
+  {
+    "Id": 2,
+    "Code": "B-202",
+    "Capacity": 60,
+    "Building": "\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0439"
+  },
+  {
+    "Id": 3,
+    "Code": "A-101",
+    "Capacity": 40,
+    "Building": "\u0413\u043B\u0430\u0432\u043D\u044B\u0439"
+  },
+  {
+    "Id": 1,
+    "Code": "A-101",
+    "Capacity": 40,
+    "Building": "\u0413\u043B\u0430\u0432\u043D\u044B\u0439"
+  },
+  {
+    "Id": 2,
+    "Code": "B-202",
+    "Capacity": 60,
+    "Building": "\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0439"
+  },
+  {
+    "Id": 4,
+    "Code": "D-404",
+    "Capacity": 30,
+    "Building": "\u0421\u0442\u0430\u0440\u044B\u0439 \u043A\u043E\u0440\u043F\u0443\u0441"
+  }
+]

@@ -1,0 +1,15 @@
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\Project\UniversitySchedule\UniversitySchedule.CLI\obj\Debug\net8.0\UniversitySchedule.CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\Project\UniversitySchedule\UniversitySchedule.CLI\obj\Debug\net8.0\UniversitySchedule.CLI.AssemblyInfoInputs.cache
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\Project\UniversitySchedule\UniversitySchedule.CLI\obj\Debug\net8.0\UniversitySchedule.CLI.AssemblyInfo.cs
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\Project\UniversitySchedule\UniversitySchedule.CLI\obj\Debug\net8.0\UniversitySchedule.CLI.csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\Project\UniversitySchedule\UniversitySchedule.CLI\obj\Debug\net8.0\UniversitySchedule.CLI.sourcelink.json
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\Project\UniversitySchedule\UniversitySchedule.CLI\bin\Debug\net8.0\UniversitySchedule.CLI.exe
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\Project\UniversitySchedule\UniversitySchedule.CLI\bin\Debug\net8.0\UniversitySchedule.CLI.deps.json
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\Project\UniversitySchedule\UniversitySchedule.CLI\bin\Debug\net8.0\UniversitySchedule.CLI.runtimeconfig.json
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\Project\UniversitySchedule\UniversitySchedule.CLI\bin\Debug\net8.0\UniversitySchedule.CLI.dll
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\Project\UniversitySchedule\UniversitySchedule.CLI\bin\Debug\net8.0\UniversitySchedule.CLI.pdb
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\Project\UniversitySchedule\UniversitySchedule.CLI\obj\Debug\net8.0\UniversitySchedule.CLI.dll
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\Project\UniversitySchedule\UniversitySchedule.CLI\obj\Debug\net8.0\refint\UniversitySchedule.CLI.dll
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\Project\UniversitySchedule\UniversitySchedule.CLI\obj\Debug\net8.0\UniversitySchedule.CLI.pdb
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\Project\UniversitySchedule\UniversitySchedule.CLI\obj\Debug\net8.0\UniversitySchedule.CLI.genruntimeconfig.cache
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\Project\UniversitySchedule\UniversitySchedule.CLI\obj\Debug\net8.0\ref\UniversitySchedule.CLI.dll

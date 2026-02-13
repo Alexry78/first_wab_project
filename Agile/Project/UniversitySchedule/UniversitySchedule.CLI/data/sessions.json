@@ -1,0 +1,15 @@
+[
+  {
+    "Id": 1,
+    "CourseId": 1,
+    "TeacherId": 1,
+    "GroupId": 1,
+    "RoomId": 1,
+    "Date": "2025-09-01T00:00:00",
+    "StartTime": "10:00:00",
+    "EndTime": "11:30:00",
+    "Notes": null,
+    "StartDateTime": "2025-09-01T10:00:00",
+    "EndDateTime": "2025-09-01T11:30:00"
+  }
+]
