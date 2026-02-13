@@ -1,0 +1,15 @@
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\QuestLogProject\bin\Debug\net8.0\QuestLogProject.exe
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\QuestLogProject\bin\Debug\net8.0\QuestLogProject.deps.json
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\QuestLogProject\bin\Debug\net8.0\QuestLogProject.runtimeconfig.json
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\QuestLogProject\bin\Debug\net8.0\QuestLogProject.dll
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\QuestLogProject\bin\Debug\net8.0\QuestLogProject.pdb
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\QuestLogProject\obj\Debug\net8.0\QuestLogProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\QuestLogProject\obj\Debug\net8.0\QuestLogProject.AssemblyInfoInputs.cache
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\QuestLogProject\obj\Debug\net8.0\QuestLogProject.AssemblyInfo.cs
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\QuestLogProject\obj\Debug\net8.0\QuestLogProject.csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\QuestLogProject\obj\Debug\net8.0\QuestLogProject.sourcelink.json
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\QuestLogProject\obj\Debug\net8.0\QuestLogProject.dll
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\QuestLogProject\obj\Debug\net8.0\refint\QuestLogProject.dll
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\QuestLogProject\obj\Debug\net8.0\QuestLogProject.pdb
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\QuestLogProject\obj\Debug\net8.0\QuestLogProject.genruntimeconfig.cache
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\QuestLogProject\obj\Debug\net8.0\ref\QuestLogProject.dll

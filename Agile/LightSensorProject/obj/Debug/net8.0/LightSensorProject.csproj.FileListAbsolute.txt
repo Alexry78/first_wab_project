@@ -1,0 +1,15 @@
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\LightSensorProject\bin\Debug\net8.0\LightSensorProject.exe
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\LightSensorProject\bin\Debug\net8.0\LightSensorProject.deps.json
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\LightSensorProject\bin\Debug\net8.0\LightSensorProject.runtimeconfig.json
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\LightSensorProject\bin\Debug\net8.0\LightSensorProject.dll
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\LightSensorProject\bin\Debug\net8.0\LightSensorProject.pdb
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\LightSensorProject\obj\Debug\net8.0\LightSensorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\LightSensorProject\obj\Debug\net8.0\LightSensorProject.AssemblyInfoInputs.cache
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\LightSensorProject\obj\Debug\net8.0\LightSensorProject.AssemblyInfo.cs
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\LightSensorProject\obj\Debug\net8.0\LightSensorProject.csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\LightSensorProject\obj\Debug\net8.0\LightSensorProject.sourcelink.json
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\LightSensorProject\obj\Debug\net8.0\LightSensorProject.dll
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\LightSensorProject\obj\Debug\net8.0\refint\LightSensorProject.dll
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\LightSensorProject\obj\Debug\net8.0\LightSensorProject.pdb
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\LightSensorProject\obj\Debug\net8.0\LightSensorProject.genruntimeconfig.cache
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\LightSensorProject\obj\Debug\net8.0\ref\LightSensorProject.dll

@@ -1,0 +1,15 @@
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\ServerMonitoring\obj\Debug\net8.0\ServerMonitoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\ServerMonitoring\obj\Debug\net8.0\ServerMonitoring.AssemblyInfoInputs.cache
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\ServerMonitoring\obj\Debug\net8.0\ServerMonitoring.AssemblyInfo.cs
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\ServerMonitoring\obj\Debug\net8.0\ServerMonitoring.csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\ServerMonitoring\obj\Debug\net8.0\ServerMonitoring.sourcelink.json
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\ServerMonitoring\bin\Debug\net8.0\ServerMonitoring.exe
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\ServerMonitoring\bin\Debug\net8.0\ServerMonitoring.deps.json
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\ServerMonitoring\bin\Debug\net8.0\ServerMonitoring.runtimeconfig.json
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\ServerMonitoring\bin\Debug\net8.0\ServerMonitoring.dll
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\ServerMonitoring\bin\Debug\net8.0\ServerMonitoring.pdb
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\ServerMonitoring\obj\Debug\net8.0\ServerMonitoring.dll
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\ServerMonitoring\obj\Debug\net8.0\refint\ServerMonitoring.dll
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\ServerMonitoring\obj\Debug\net8.0\ServerMonitoring.pdb
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\ServerMonitoring\obj\Debug\net8.0\ServerMonitoring.genruntimeconfig.cache
+C:\Users\Я\Desktop\3 course\first_web_project\Agile\ServerMonitoring\obj\Debug\net8.0\ref\ServerMonitoring.dll
